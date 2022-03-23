@@ -1,2 +1,1 @@
-# backup_Codetest
- 파이썬 알고리즘 인터뷰 실습
+# backup_Codetest : 이것이 코딩 테스트다 with 파이썬 실습
